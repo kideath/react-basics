@@ -1,3 +1,6 @@
+### Demo
+https://kideath.github.io/react-basics/
+
 ### План изучения React
 
 1. Сделать с роутингом несколько страниц
