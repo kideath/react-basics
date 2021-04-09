@@ -1,0 +1,15 @@
+
+.mydiv {
+  display: inline-block; /* устанавливаем элементы <div> как блочно-строчные (выстраиваем в линейку) */
+  width: 25%; /* устанавливаем ширину элемента */
+  height: 100px; /* устанавливаем высоту элемента */
+} 
+.r {
+  background-color: lightcoral;
+}
+.g {
+  background-color: lightgreen;
+}
+.b {
+  background-color: lightblue;
+}
